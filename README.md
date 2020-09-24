@@ -1,5 +1,5 @@
-# Ko-No.1-Arisu
- Ko No.1 - Arisu Custom Seamless Keyboard Case
+#  Ko No.1 - Arisu Custom Seamless Keyboard Case
+
  ## Documentations
  This Repository has the assets needed to manufacture a custom CNC keyboard case for the open source [Arisu PCB](https://github.com/FateNozomi/arisu-pcb).
  
@@ -40,8 +40,18 @@
 - 8x M2.5x0.45 6mm stainless steel head cap machine screws
 
 ## FAQ
-#### - But why?
+#### But why?
 I really like the Arisu layout, But there is no easily accessible high quality case available for it that meets the Design I was looking for. I eventually stumbled upon [Jim Palmer's](https://github.com/overset) case design which fit the design Language I was looking for (with minor design choices i did not quite like). So i took it upon myself and modfied it to fit what i invisioned.
+
+## Modifications Made
+- Changed height of the case so that it sits flush on the bottom, covering the base plate
+- Countersunk screw lengths are different sizes and deeper on both front and back
+- Head cap screw holes are deeper on both front and back
+- Repositioned and resized the USB port hole so that its smaller and centered with the connector
+- Incorperated Bump-on spots on the base plate
+- Changed fillet size on the edges of the case and base plate
+- Added my logo on the base plate
+- thicker base plate
 
 ## Credits
 This case was inspired by FateNozomi's Arisu PCB, Arisu Case, and [JP01 Case](https://github.com/overset/JP01) which was inspired by Lyn's EM7 and the fabled TGR Alice. This is referred to as the "open source Alice with arrows" and now with a solid Seamless case.
