@@ -31,7 +31,7 @@
 - Switch Plate - SendCutSend
  
 ## Parts needed
-- [Arisu PCB](https://github.com/FateNozomi/arisu-pcb) Gerber Files
+- [Arisu PCB V1.1](https://github.com/FateNozomi/arisu-pcb/releases/tag/v1.1) Gerber Files
 - CNC Case (Case.Step)
 - CNC Base Plate (Base.Step)
 - laser-cut switch plate (switch-plate.dxf)
