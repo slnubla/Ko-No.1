@@ -42,6 +42,10 @@
 ## FAQ
 #### But why?
 I really like the Arisu layout, But there is no easily accessible high quality case available for it that meets the Design I was looking for. I eventually stumbled upon [Jim Palmer's](https://github.com/overset) case design which fit the design Language I was looking for (with minor design choices i did not quite like). So i took it upon myself and modfied it to fit what i invisioned.
+#### Will there be a GB?
+As of right now I am planning on running a GB for this case
+#### Can I use this case?
+Of course! like Jim Palmer said its all in the "heart of opensource" feel free to use it in anyway you like. Although conisder giving credit to this and FateNozomi for the original Arisu keyboard
 
 ## Modifications Made
 - Changed height of the case so that it sits flush on the bottom, covering the base plate
@@ -54,4 +58,4 @@ I really like the Arisu layout, But there is no easily accessible high quality c
 - thicker base plate
 
 ## Credits
-This case was inspired by FateNozomi's Arisu PCB, Arisu Case, and [JP01 Case](https://github.com/overset/JP01) which was inspired by Lyn's EM7 and the fabled TGR Alice. This is referred to as the "open source Alice with arrows" and now with a solid Seamless case.
+This case was inspired by FateNozomi's Arisu PCB, Arisu Case, and the [JP01 Case](https://github.com/overset/JP01) which was inspired by Lyn's EM7 and the fabled TGR Alice. This is referred to as the "open source Alice with arrows" and now with a solid Seamless case.
