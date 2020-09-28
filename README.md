@@ -3,6 +3,8 @@
  ## Documentations
  This Repository has the assets needed to manufacture a custom CNC keyboard case for the open source [Arisu PCB](https://github.com/FateNozomi/arisu-pcb).
  
+ ![Img](https://github.com/Shonny33/Ko-No.1/blob/master/Cad%20Screenshots/Cad_Assembled_Ortho.PNG)
+ 
 ## Specifications
 - Seamless case. Simple design to limit the number of individual parts to get CNC milled.
 - 6061-T6 Aluminum
